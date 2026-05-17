@@ -96,25 +96,24 @@
       "poiId": "B0KRS5F9PY"
     },
     {
-      "name": "拓意 XCAR Toys",
-      "query": "拓意 XCAR Toys 南锣鼓巷",
+      "name": "拓意 XCARTOYS",
+      "query": "拓意 XCARTOYS 南锣鼓巷",
       "address": "北京市东城区南锣鼓巷",
       "action": "购买汽车模型，与店主交流。",
       "note": "玩具店门牌需现场确认，建议用完整店名搜索。",
       "index": 8,
-      "lng": 116.402394,
-      "lat": 39.937182,
+      "lng": 116.403079,
+      "lat": 39.939754,
       "matchType": "poi",
-      "matchedName": "南锣鼓巷",
-      "matchedAddress": "北京市北京市东城区交道口街道南大街(南锣鼓巷地铁站E西北口旁)",
-      "poiId": "B0FFFAH7I9"
+      "matchedName": "拓意(XCARTOYS)",
+      "matchedAddress": "北京市北京市东城区南锣鼓巷17-1号",
+      "poiId": "B0MBM77ML6"
     },
     {
-      "name": "一品昌后海酒吧",
+      "name": "一品昌后海民谣BAR",
       "query": "一品昌后海民谣BAR",
       "address": "北京市西城区后海北沿烟袋斜街西侧",
       "action": "沿湖散步，参观酒吧，欣赏什刹海日落。",
-      "note": "公开 POI 名称可能为“一品昌后海民谣BAR/一品昌后海酒吧”。",
       "index": 9,
       "lng": 116.393752,
       "lat": 39.938503,
@@ -135,6 +134,20 @@
       "matchedName": "庆云楼饭庄",
       "matchedAddress": "北京市北京市西城区什刹海街道前海东沿22号",
       "poiId": "B0FFHR03EJ"
+    },
+    {
+      "name": "潮府林苑(故宫店)",
+      "query": "潮府林苑 故宫店",
+      "address": "北京市东城区南池子大街菖蒲河沿9号",
+      "action": "晚间在此用餐，体验传统戏楼与潮州菜结合的特色环境。",
+      "note": "位于菖蒲河公园内西侧，公开地图也可能显示为潮府林苑·潮州菜(故宫店)。",
+      "index": 11,
+      "lng": 116.404869,
+      "lat": 39.909245,
+      "matchType": "poi",
+      "matchedName": "潮府林苑(故宫店)",
+      "matchedAddress": "北京市北京市东城区北京城区北库司胡同1号(天安门东地铁站B东北口步行340米)",
+      "poiId": "B0L2FS27P3"
     }
   ]
 }
